@@ -2,8 +2,8 @@
 Console.WriteLine("Hello, World!");
 
 int x = 10;
-int y = 5;
-Console.WriteLine(x + y);
-Console.WriteLine(x - y);
-Console.WriteLine(x * y);
-Console.WriteLine(x / y);
+int y = 3;
+Console.WriteLine(x + y); //13
+Console.WriteLine(x - y); //7
+Console.WriteLine(x * y); //30
+Console.WriteLine(x / y); //3
